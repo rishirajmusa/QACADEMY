@@ -9,19 +9,19 @@ This project is a bill printing application that allows users to:
 * **Bill Printing:** Once the order is finalized, the application generates a bill that can be printed.
 
 **Features**
-*Flexible Cart Management
-*Versatile Coupon System
-*Accurate Discount Calculation
-*Detailed Bill Printing
+* Flexible Cart Management
+* Versatile Coupon System
+* Accurate Discount Calculation
+* Detailed Bill Printing
 
 **Example Usage**
-*Input
+* Input
 ADD_PROGRAMMECERTIFICATION 1
 ADD_PROGRAMMEDEGREE 1 
 ADD_PROGRAMMEDIPLOMA 2
 APPLY_COUPONDEAL_G20
 PRINT_BILL	
-*OutPut
+* OutPut
 SUB_TOTAL13000.00
 COUPON_DISCOUNTB4G1 2500.00
 TOTAL_PRO_DISCOUNT0.00
