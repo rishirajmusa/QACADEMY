@@ -5,7 +5,7 @@
 
 # How to run the code
 
-We have provided scripts to execute the code. 
+I have provided scripts to execute the code. 
 
 Use `run.sh` if you are Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows.
 
@@ -27,7 +27,3 @@ in the build.gradle if your main class has changed.
 
  `gradle clean test --no-daemon` will execute the unit test cases.
 
-# Help
-
-You can refer our help documents [here](https://help.geektrust.in)
-You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
