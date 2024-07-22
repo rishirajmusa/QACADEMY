@@ -32,7 +32,7 @@ TOTAL10500.00
 **Technologies Used**
 * Java 11
 * Object-Oriented Programming (OOP) concepts
-* Java Development Kit (JDK) (if applicable)
+* Java Development Kit (JDK)
 * Visual Studio Code (IDE)
 
 **Author**
